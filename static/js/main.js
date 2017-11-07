@@ -1,0 +1,1 @@
+$('body').append('<h2>Hello</h2>')
